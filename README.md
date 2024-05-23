@@ -6,7 +6,7 @@ Voici mon projet fou que je me suis lancé en juillet 2023 : concevoir de A à Z
 
 ## Mon objectif
 
-Toujours passionné par la mécanique et le développement, j'ai voulu me tester sur un projet à taille réelle, en remettant au gout du jour l'icône des années 1970.
+> Toujours passionné par la mécanique et le développement, j'ai voulu me tester sur un projet à taille réelle, en remettant au gout du jour l'icône des années 1970.
 
 
 ## Mon cahier des charges
