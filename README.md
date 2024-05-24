@@ -1,7 +1,7 @@
 
 # Peugeot E-103
 > [!NOTE]
-> Voici mon projet fou que je me suis lancé en juillet 2023 : concevoir de A à Z la première Peugeot 103 électrique, avec un design original et une chaine électrique et dynamique inédite !
+> Le projet fou que je me suis lancé en juillet 2023 : concevoir de A à Z la première Peugeot 103 électrique, avec un design original et une chaine électrique et dynamique inédite !
 
 
 ## Mon objectif
