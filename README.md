@@ -32,7 +32,7 @@ Je n'ai pas compté les heures de travail, mais il faut compter une centaine d'h
 
 #### T'as fait ça tout seul ??
 
-D'autant que j'ai pu, oui. Le projet est cible aussi ma formation personnelle, à la fois dans le domaine technique et pour le challenge de mener à bien, et proprement un projet.
+D'autant que j'ai pu, oui. Le projet cible aussi ma formation personnelle, à la fois dans le domaine technique et pour le challenge de mener à bien, et proprement un projet.
 
 ## 🚀 Qui suis-je ?
 Je suis actuellement en deuxième année de classe préparatoire aux écoles d'ingénieur. Ce projet fait l'objet de mon TIPE 2023-2024, peaufiné durant l'année.
