@@ -1,7 +1,7 @@
 
 # Peugeot E-103 🏍️
 > [!NOTE]
-> Un projet fou que je me suis lancé en juillet 2023 : concevoir de A à Z la première Peugeot 103 électrique, avec un design original et une chaine électrique et dynamique inédite !
+> Un projet fou que je me suis lancé en juillet 2023 : concevoir de A à Z la première Peugeot 103 électrique, avec un design original et une chaine électrique et dynamique sur mesure !
 
 ![alt text](https://github.com/Emilien-Wolff/Peugeot-E-103/blob/main/Documentation/Photos/IMG_3447.jpg?raw=true)
 
