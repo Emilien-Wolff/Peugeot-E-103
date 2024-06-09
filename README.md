@@ -24,11 +24,11 @@
 ## FAQ
 
 #### Pourquoi une 103 ?
-Cette bécane m'a toujours fasciné, à la fois dont par mes proches en parlent, mais aussi par le look, dans son temps et totalement innovant. 
+J'ai toujours été intéressé par les véhicules anciens et les mécaniques parfois innovantes. La Peugeot 103 en faisait partie, mobylette inconique dont mes parents m'ont parlé, et à laquelle je me suis vite attaché, par son esthétique et la trace qu'elle a laissé.
 
 #### Combien de temps ça t'as pris ?
 
-Je n'ai pas compté les heures de travail, mais il faut compter une centaine d'heures de restauration et 400 heures d'étude et de conversion.
+Je n'ai pas noté mes heures de travail, mais il faut compter une centaine d'heures de restauration et 400 heures d'étude et de conversion.
 
 #### T'as fait ça tout seul ??
 
